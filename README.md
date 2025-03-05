@@ -63,7 +63,3 @@ This project provides valuable insights into **healthcare data**, helping health
 3. Install required libraries (e.g., pandas, matplotlib, seaborn) using `pip install -r requirements.txt` ⚙️
 4. Run the notebook to explore the data and generate insights 🔍
 5. Open the `healthcare_analysis.pbix` file in Power BI to explore the dashboard 📊
-
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
